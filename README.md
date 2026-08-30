@@ -1,4 +1,4 @@
-# Copy Partitions scritp
+# Copy Partitions script
 
 This is script version of Copy Partitions flashable zip that helps you automatically copy slot A/B. This can be run using Termux or other terminal applications with root privileges. TWRP or other custom recovery is not required.
 
